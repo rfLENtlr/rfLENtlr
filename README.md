@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Yuya Yamada.👋
+I am a graduate student at NAIST (Nara Institute of Science and Technology), majoring in Cybersecurity.  
+I have a particular interest in reverse engineering and malware analysis.
+
+#### Areas of interest
+- Cyber Security
+- Cyber Threat Intelligence
+- Reverse Engineering
+- Malware Analysis
+- Binary Analysis
+- CTF
 
 <!--
 **rfLENtlr/rfLENtlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
