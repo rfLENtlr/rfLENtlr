@@ -4,7 +4,6 @@ I have a particular interest in reverse engineering and malware analysis.
 
 #### Areas of interest
 - Cyber Security
-- Cyber Threat Intelligence
 - Reverse Engineering
 - Malware Analysis
 - Binary Analysis
