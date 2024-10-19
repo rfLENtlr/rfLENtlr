@@ -10,7 +10,8 @@ I have a particular interest in reverse engineering and malware analysis.
 - CTF
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats-clone-alpha-indol.vercel.app/api?username=rfLENtlr" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-clone-alpha-indol.vercel.app/api?username=rfLENtlr&count_private=true" />
+  <img alt="pin_repo" height="150px" src="https://github-readme-stats-clone-alpha-indol.vercel.app/api/pin/?username=rfLENtlr&repo=ctf_practice&show_owner=true" />
 </p>
 
 <!--
